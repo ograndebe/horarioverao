@@ -20,7 +20,7 @@
    
 - Para corrigir é necessário executar o comando:
    - java -jar tzupdater.jar -l https://data.iana.org/time-zones/releases/tzdata2019c.tar.gz
-   - é possível obter o tzupdater no site da oracle (https://www.oracle.com/technetwork/java/javase/downloads/tzupdater-download-513681.html)
+   - é possível obter o tzupdater no site da oracle (https://www.oracle.com/technetwork/java/javase/downloads/tzupdater-download-513681.html) (CUIDADO: tive problemas com a versão 2.2, utilize a 2.3)
    - se você veio do futuro, a tabela de timezones pode ter sido atualizada, obtenha a mais recente em: https://www.iana.org/time-zones
    
 - Depois rodar o primeiro comando novamente:
