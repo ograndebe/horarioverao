@@ -33,3 +33,4 @@
   -  [Calendar] offset -> 0
   -  [Calendar] apos adicionar uma hora -> 03/11/2019 00:00 com offset 0
   -  [Calendar] Problema com horario de verao resolvido
+  
